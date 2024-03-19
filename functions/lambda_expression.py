@@ -53,3 +53,11 @@ print(f"result x triple= {result_triple}")
 
 
 # Lambda function in a loop
+
+callables = []
+for i in (1,2,3):
+    callables.append(lambda a=i: a)
+
+print("\n\nlambda() funtion in a loop")
+for f in callables:
+    print(f())

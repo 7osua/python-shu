@@ -5,5 +5,5 @@
 /dataSources/
 /dataSources.local.xml
 
+# IDEA config
 /.idea/
-/.idea/*
