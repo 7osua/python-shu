@@ -6,3 +6,10 @@ practical programming techniques to your specific challenges.
 
 - Gain basic Python programming concepts.
 - Know how to apply basic techniques with Python programming language.
+- Apply Python programming techniques in varios domain
+  - Web App
+  - Mobile App
+  - Big Data App
+  - Testing
+  - Automation
+  - Work with Database
