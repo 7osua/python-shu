@@ -30,7 +30,7 @@ numbers = {1, 2, 3}
 scores = [2, 3, 4] # type list
 
 numbers_itersect_method = numbers.intersection(scores)
-numbers_itersect_operator = numbers & scores # TypeError: unsupported operand type(s) for &: 'set' and 'list'
+# numbers_itersect_operator = numbers & scores # TypeError: unsupported operand type(s) for &: 'set' and 'list'
 
 print(f'numbers = {numbers}')
 print(f'scores = {scores}')
