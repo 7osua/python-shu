@@ -1,12 +1,10 @@
-"""
-link : https://www.pythontutorial.net/python-basics/python-symmetric-difference/
---------------------------------------------------------------------------------
-Learn how to find the symmetric difference between two or more sets.
-- The symmetric difference between two or more sets is a set of elements that are in all sets,
-  but not in their intersections.
-- Use the symmetric_difference() method or the symmetric difference "^" operator
-  to find the symmetric difference of two or more sets.
-"""
+# link : https://www.pythontutorial.net/python-basics/python-symmetric-difference/
+# --------------------------------------------------------------------------------
+# Learn how to find the symmetric difference between two or more sets.
+# - The symmetric difference between two or more sets is a set of elements that are in all sets,
+#   but not in their intersections.
+# - Use the symmetric_difference() method or the symmetric difference "^" operator
+#   to find the symmetric difference of two or more sets.
 
 # Introduction to the symmetric difference of sets
 
