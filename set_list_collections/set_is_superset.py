@@ -3,7 +3,7 @@
 # - The set A is a superset of a set B if all elements of set B are elements of set A.
 # - Use the Python issuperset() method to check if a set is a superset of another.
 # - Use the superset operator (>=) or proper superset operator (>)
-#   to check if a set is a superset or a proper superset of another set
+#   to check if a set is a superset or a proper superset of another set.
 
 
 # Introduction to issuperset() method
