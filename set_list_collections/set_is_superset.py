@@ -1,4 +1,4 @@
-# https://www.pythontutorial.net/python-basics/python-issuperset/
+# link : https://www.pythontutorial.net/python-basics/python-issuperset/
 # Learn how to use the Python issuperset() method to check if a set is a superset of another.
 # - The set A is a superset of a set B if all elements of set B are elements of set A.
 # - Use the Python issuperset() method to check if a set is a superset of another.
