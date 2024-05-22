@@ -21,6 +21,6 @@ print(f'not price > 10 = {not price > 10}')
 print(f'not price < 10 = {not price < 10}')
 
 # Combine logical operators
-print(f'not (price > 5 and price < 10) = {not (price > 5 and price < 10)}')o
+print(f'not (price > 5 and price < 10) = {not (price > 5 and price < 10)}')
 
 # Precedence of Logical Operators
