@@ -30,9 +30,10 @@ print(f'current = {current}')
 """
 Even though when your code has valid syntax, it may cause an error during execution.
 
-In Python, errors that occur during the execution are called exceptions. The causes of exceptions mainly come from the environment where the code executes. For example:
+In Python, errors that occur during the execution are called exceptions. 
+The causes of exceptions mainly come from the environment where the code executes. For example:
 
-Reading a file that doesn’t exist.
+Reading a file that does not exist.
 Connecting to a remote server that is offline.
 Bad user inputs.
 
@@ -60,7 +61,7 @@ try:
         results = f'Sales Decrease {abs(change)}%'
 
     print(results)
-except  ValueError:
+except ValueError:
     print('Error! Please enter a number for net sales.')
 except ZeroDivisionError:
     print('Error! The prior net sales cannot be zero.')
