@@ -3,8 +3,6 @@
 """
 Learn how to un-tuples.
 """
-from operator import and_
-
 # Review Tuples "()"
 
 """
