@@ -1,6 +1,6 @@
 # link : https://www.pythontutorial.net/python-basics/python-type-hints/
-from typing import Union
 from typing import List
+from typing import Union
 
 """
 Learn about type hints and how to use mypy tool to check types statically.
@@ -18,17 +18,17 @@ causes unexpected errors that you can only discover until the program runs.
 """
 
 
-def say_hi(name):
-    return f'Hi {name}'
+def say_hi(name_arg):
+    return f'Hi {name_arg}'
 
 
-def say_hi_type_hint(name: str) -> str:
+def say_hi_type_hint(name_arg: str) -> str:
     """The following example defines a simple function that accepts a string and returns another string"""
-    return f'Hi {name}'
+    return f'Hi {name_arg}'
 
 
 """
-Besides the str type, you can use other built-in types such as int, float, bool, and bytes for type hintings.
+Besides the str type, you can use other built-in types such as int, float, bool, and bytes for type hints.
 """
 greeting_text = say_hi('john')
 greeting_text_with_hint = say_hi_type_hint("test")
@@ -47,7 +47,9 @@ Since Mypy is a third-party package, you need to install it using the following 
 # Using Type Hinting & Type Inference
 
 name: str = 'John'
+print(name)
 name = 'Jane'
+print(name)
 
 
 # Adding type hints for multiple types
@@ -107,4 +109,5 @@ def log(message: str) -> None:
     """
     print(f'message : {message}')
 
-log("Succes: no issue found in 1 source file")
+
+log("Success: no issue found in 1 source file")
