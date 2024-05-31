@@ -21,8 +21,9 @@ from pricing import get_tax_rate
 from pricing import get_net_price as calculate_net_price
 
 
+
 """
-A module is a piece of software that has a specific functionality.
+A a module is a piece of software that has a specific functionality.
 A python module is a file that contains code.
 
 A module has a name specified by filename without ".py" extension.
