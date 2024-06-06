@@ -1,0 +1,10 @@
+Learn python
+Learn SQL
+Learn Spark
+Learn SQLite
+Learn Matplotlib
+Learn Pandas
+Learn Flask
+Learn Jinja
+Learn Airflow
+成功を収める人とは人が投げてきたレンガでしっかりした基盤を築くことができる人のことである。
