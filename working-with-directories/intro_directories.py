@@ -71,7 +71,7 @@ you can use the functions 'os.path.exists()' and 'os.path.isdir()' functions.
 
 new_directory_name = "new_directory"
 
-if(os.path.exists(new_directory_name)):
+if os.path.exists(new_directory_name):
     print(f'Failed, the {new_directory_name} already exist!')
 else:
     os.mkdir(new_directory_name)
