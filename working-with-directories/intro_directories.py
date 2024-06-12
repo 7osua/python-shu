@@ -27,7 +27,7 @@ The current working directory is the directory where the Python script is runnin
 
 To change the current working directory we can use the ".chdir()".
 The ".chdir()" will change the value of the "current_directory" variable 
-to the "../fundamentals" directory by re-assign new returned value of the 
+to the "../fundamentals" directory by re-assign a new path value of the 
 '.getcwd()' function.
 """
 
