@@ -29,7 +29,6 @@ However, it will be time-consuming and not scale very well.
 
 This is where virtual environments come into play.
 """
-
 # What is a Python virtual environment
 """
 Python uses virtual environments to create an isolated environment for every project.
