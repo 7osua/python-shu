@@ -24,7 +24,7 @@ main()
 The 'print(...)' is a built-in function that displays a message
 on the screen. In this examples, it will show the message
 
-[shell]
+[Shell]
 python app.py
 
 [Output]
