@@ -20,17 +20,17 @@ Python uses whitespace and indentation to construct the code structure.
 
 By using indentation and whitespace to organize the code,
 Python code gains the following advantages:
-- First, you’ll never miss the beginning or ending code of a block
+- First, you'll never miss the beginning or ending code of a block
   like in other programming languages such as Java or C#.
 - Second, the coding style is essentially uniform.
-  If you have to maintain another developer’s code,
+  If you have to maintain another developer's code,
   that code looks the same as yours.
 - Third, the code is more readable and clear
   in comparison with other programming languages.
 """
 
 
-# Comments
+# type: ignore # Comments
 # - The comments are as important as the code because they
 #   describe why a piece of code was written.
 
@@ -46,8 +46,8 @@ Python code gains the following advantages:
 - Python use a new line character to seperate statements.
   It places each statement on one line.
 - However, a long statement can span multiple lines by using
-  the (\) backslash character.
-- The following example illustrates how to use the (\) backslash
+  the (\) backslash character. # type: ignore
+- The following example illustrates how to use the (\) backslash # type: ignore
   character to continue a statement in the second line.
 
 [Code]
